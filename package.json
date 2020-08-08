@@ -1,0 +1,11 @@
+{
+  "name": "proffy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LucasPedrosoTI/rocketseat-proffy.git",
+  "author": "lucaspedrosoti <lps1010@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node server/src/server.ts"
+  }
+}
